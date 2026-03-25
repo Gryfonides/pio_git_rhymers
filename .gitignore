@@ -22,3 +22,7 @@ build/
 ### System Files ###
 .DS_Store
 Thumbs.db
+
+### Text files ###
+*.odt
+*.odt#
